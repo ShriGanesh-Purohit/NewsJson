@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Application</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Latest News</h1>
+
+    <div>
+        <label for="sort-news">Sort By:</label>
+        <select id="sort-news">
+            <option value="date">Date</option>
+            <option value="title">Title</option>
+        </select>
+
+        <input type="text" id="filter-input" placeholder="Filter by keyword...">
+    </div>
+
+    <div id="news-container">
+        
+    </div>
+
+    <div class="pagination">
+        <button id="prev-btn" disabled>Previous</button>
+        <span id="page-indicator"></span>
+        <button id="next-btn">Next</button>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>

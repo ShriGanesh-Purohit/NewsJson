@@ -1,0 +1,68 @@
+[
+    {
+        "id": "bbc-news",
+        "name": "BBC News",
+        "author": "Jane Smith",
+        "title": "Another Important Event",
+        "description": "Details about another important event happening around the world.",
+        "url": "https://www.bbc.com/news/world/2024/important-event",
+        "urlToImage": "https://cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-08T10:20:00Z",
+        "content": "This is the full article content for the important event happening globally."
+    },
+    {
+        "id": "cnn-news",
+        "name": "CNN News",
+        "author": "John Doe",
+        "title": "Breaking Global News",
+        "description": "Breaking news about important events worldwide.",
+        "url": "https://www.cnn.com/news/world/2024/breaking-global-news",
+        "urlToImage": "https://cdn.cnn.com/news/images/breaking-global-news.jpg",
+        "publishedAt": "2024-09-08T11:00:00Z",
+        "content": "This is the full article content for the breaking global news."
+    },
+    {
+        "id": "fox-news",
+        "name": "Fox News",
+        "author": "Emily Davis",
+        "title": "New Global Crisis",
+        "description": "Information about a new global crisis event.",
+        "url": "https://www.foxnews.com/world/new-global-crisis",
+        "urlToImage": "https://cdn.foxnews.com/news/images/new-global-crisis.jpg",
+        "publishedAt": "2024-09-08T12:30:00Z",
+        "content": "This is the full article content for the new global crisis."
+    },
+    {
+        "id": "nytimes-news",
+        "name": "NY Times",
+        "author": "Michael Johnson",
+        "title": "Economic Developments",
+        "description": "Updates on major economic developments around the world.",
+        "url": "https://www.nytimes.com/economic/developments/2024",
+        "urlToImage": "https://cdn.nytimes.com/images/economic-developments.jpg",
+        "publishedAt": "2024-09-08T09:45:00Z",
+        "content": "This is the full article content for the economic developments."
+    },
+    {
+        "id": "reuters-news",
+        "name": "Reuters",
+        "author": "Sarah Lee",
+        "title": "Political Shifts Worldwide",
+        "description": "Details about recent political changes happening globally.",
+        "url": "https://www.reuters.com/news/world/political-shifts",
+        "urlToImage": "https://cdn.reuters.com/news/images/political-shifts.jpg",
+        "publishedAt": "2024-09-08T14:00:00Z",
+        "content": "This is the full article content about the political shifts worldwide."
+    },
+    {
+        "id": "aljazeera-news",
+        "name": "Al Jazeera",
+        "author": "David Kim",
+        "title": "Environmental Changes",
+        "description": "Coverage of major environmental changes and their effects.",
+        "url": "https://www.aljazeera.com/environmental-changes/2024",
+        "urlToImage": "https://cdn.aljazeera.com/images/environmental-changes.jpg",
+        "publishedAt": "2024-09-08T15:30:00Z",
+        "content": "This is the full article content for the environmental changes happening globally."
+    }
+]
